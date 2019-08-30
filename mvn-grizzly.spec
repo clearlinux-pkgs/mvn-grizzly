@@ -4,7 +4,7 @@
 #
 Name     : mvn-grizzly
 Version  : 2.2.21
-Release  : 4
+Release  : 5
 URL      : https://github.com/javaee/grizzly/archive/2_2_21.tar.gz
 Source0  : https://github.com/javaee/grizzly/archive/2_2_21.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/sun/grizzly/grizzly-framework/1.9.8/grizzly-framework-1.9.8.jar
